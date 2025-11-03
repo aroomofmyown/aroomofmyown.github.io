@@ -1,16 +1,16 @@
 ---
-title: "Your Title"
-date: 2022-01-01
-description: "A relevant description (Used for SEO and search)"
+title: "Explanation and Plan"
+date: 2025-11-03
+description: "An overview of why I am creating this"
 tags: tag1, tag2, tag3, these are used for search
 importance: 5
 abstract: "Leave empty if you don't want to feature an abstract. "
 ---
 
-Example article in wiki. Edit this in markdown.
+An overview of why I am creating this and how I plan to use it.
 
-## Title
-### Smaller title
+## Explanations
+### And Plans
 
 
 **bold**, *italic*, [link](/somewhere)
