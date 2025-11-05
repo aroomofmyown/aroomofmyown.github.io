@@ -1,8 +1,9 @@
 ---
 layout: default
-title: About Me
+title: Music Gallery
 ---
 
-# About Me
+# Music Gallery
   
-Write about yourself in markdown
+This is where I plan to add any music things I'm working on. Because of life recently, I haven't been able to create new stuff, and anyways nothing has been recorded, 
+but hopefully something will be up here soon.
