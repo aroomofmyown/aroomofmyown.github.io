@@ -6,11 +6,10 @@ tags: book, 2025, media, these are used for search
 importance: 5
 abstract: ""
 ---
+# My 2025 Books  
+A list of my 2025 reads as of 10/11/25, sorted by month.  
+Current Read: I Who Have Never Known Men - Jaqueline Harpman  
 
-A list of my books as of 10/11/25, sorted by month.  
-Current Read: I Who Have Never Known Men - Jaqueline Harpman
-
-# 2025  
 ### January  
 Blood & Honey - Shelby Mahurin  
 Gods & Monsters - Shelby Mahurin  
