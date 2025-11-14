@@ -8,7 +8,7 @@ abstract: ""
 ---
 # My 2025 Books  
 A list of my 2025 reads as of 10/11/25, sorted by month.  
-Current Read: I Who Have Never Known Men - Jaqueline Harpman  
+Current Read: The Invisible Life of Addie LaRue - V.E. Schwab  
 
 ### January  
 Blood & Honey - Shelby Mahurin  
@@ -66,3 +66,4 @@ Odyssey - Stephen Fry
 ### November  
 The Nature of Disappearing - Kimi Cunningham Grant  
 Room - Emma Donoghue  
+I Who Have Never Known Men - Jaqueline Harpman  
