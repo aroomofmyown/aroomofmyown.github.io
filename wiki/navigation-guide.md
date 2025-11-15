@@ -7,11 +7,11 @@ importance: 5
 abstract: "Leave empty if you don't want to feature an abstract. "
 ---
 ### 25-65-5-70 (Name)  
-- Klimt: 25-45-35-80-75-95        - Shine: 5-125-130
-- Bunga: 25-95-75-85              - Greg: 95-45-85-85-5-50
-- Mars: 125-80-80-75-80           - Italy: 45-100-70-5-45-15
-- Cathy: 125-10-105-85            - Braid: 70-45-60-125-5-85-10
-- Salvador: 25-45-110-25  
+- Klimt: 25-45-35-80-75-95
+- Bunga: 25-95-75-85
+- Mars: 125-80-80-75-80
+- Cathy: 125-10-105-85
+- Salvador: 25-45-110-25
 - Smiley: 60-45-85-80-5
 - Buzz: 45-60-5
 - Sandy: 5-45-110-45-60-75
@@ -23,3 +23,7 @@ abstract: "Leave empty if you don't want to feature an abstract. "
 - Coral: 25-45-110-25
 - Hunter: 5-125-25-85-30  
 - Svabo: 100-25-60-75-45-110
+  
+- Shine: 5-125-130
+- Greg: 95-45-85-85-5-50
+- Italy: 45-100-70-5-45-15
