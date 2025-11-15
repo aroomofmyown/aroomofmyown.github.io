@@ -6,8 +6,10 @@ tags: tag1, tag2, tag3, these are used for search
 importance: 5
 abstract: "Leave empty if you don't want to feature an abstract. "
 ---
+### 25-65-5-70 (Name)  
 
-### 25-65-5-70 (Name) 
+| Header 1 | Header 2 | Header 3 |
+|---|---|---|
 - Klimt: 25-45-35-80-75-95  
 - Bunga: 25-95-75-85  
 - Mars: 125-80-80-75-80  
@@ -16,6 +18,7 @@ abstract: "Leave empty if you don't want to feature an abstract. "
 - Smiley: 60-45-85-80-5
 - Buzz: 45-60-5
 - Sandy: 5-45-110-45-60-75
+
 - Poodle: 5-70-5-45-60-25
 - Villette: 25-100-100-75-60-85-5-40-15
 - Wilbur: 125-20-5-55-5-65
