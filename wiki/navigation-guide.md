@@ -21,7 +21,7 @@ abstract: "Leave empty if you don't want to feature an abstract. "
 - Sid: 125-25-85-10-105-5
 - Pianist: 5-70-25-25-40-95
 - Coral: 25-45-110-25
-- Hunter: 5-125-25-85-30  
+- Hunter: 5-125-25-85-30
 - Svabo: 100-25-60-75-45-110
   
 - Shine: 5-125-130
