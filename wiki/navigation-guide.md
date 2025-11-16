@@ -22,7 +22,7 @@ abstract: "Leave empty if you don't want to feature an abstract. "
 - Pianist: 5-70-25-25-40-95
 - Coral: 25-45-110-25
 - Hunter: 5-125-25-85-30
-- Svabo: 100-25-60-75-45-110
+-  Svabo: 100-25-60-75-45-110
   
 - Shine: 5-125-130
 - Greg: 95-45-85-85-5-50
