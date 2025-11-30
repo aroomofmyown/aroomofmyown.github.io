@@ -24,6 +24,11 @@ abstract: "Leave empty if you don't want to feature an abstract. "
 - Hunter: 5-125-25-90-30
 - Svabo: 100-25-60-75-45-110
   
+- Loaf: 25-55-5-60-10
+- Morgan: 60-60-25-40-15-100-45-65
+- Train: 45-65-65-25-90
+- Chip: 70-70-125-60-30
+    
 - Shine: 5-125-130
 - Greg: 95-45-90-90-5-50
 - Italy: 45-100-70-5-45-15
