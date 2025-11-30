@@ -7,8 +7,8 @@ importance: 5
 abstract: ""
 ---
 # My 2025 Books  
-A list of my 2025 reads as of 10/11/25, sorted by month.  
-Current Read: The Invisible Life of Addie LaRue - V.E. Schwab  
+A list of my 2025 reads as of 01/12/25, sorted by month.  
+Current Read: Villette - Charlotte Bronte  
 
 ### January  
 Blood & Honey - Shelby Mahurin  
@@ -67,3 +67,5 @@ Odyssey - Stephen Fry
 The Nature of Disappearing - Kimi Cunningham Grant  
 Room - Emma Donoghue  
 I Who Have Never Known Men - Jaqueline Harpman  
+The Invisible Life of Addie LaRue - V.E. Schwab  
+
